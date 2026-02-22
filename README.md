@@ -30,25 +30,25 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayurax&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayurax&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=Ayurax&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayurax&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" />
 </p>
 
 <p align="center">
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Ayurax&theme=dark&hide_border=false" />
+  <img width="700" src="https://nirzak-streak-stats.vercel.app/?user=Ayurax&theme=dark&hide_border=true&background=00000000" />
 </p>
 
 #### 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&size=15&pause=1000&color=ffffff&background=000000&center=true&vCenter=true&width=600&height=50&lines=%22Simplicity+is+the+soul+of+efficiency.%22" alt="Quote" />
 </p>
 
 <p align="right">
-<img src="https://visitcount.itsvg.in/api?id=Ayurax&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=Ayurax&icon=0&color=0" />
 </p>
