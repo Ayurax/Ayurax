@@ -5,12 +5,13 @@
 <br/>
 
 #### 🌐 Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/raj-singhania-908aa12b2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:rajsinghania811214@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/ayu_rax" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-<a href="https://instagram.com/ayu_rax" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://youtube.com/@rajsinghania2995" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.linkedin.com/in/raj-singhania-908aa12b2"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rajsinghania811214@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/ayu_rax"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://instagram.com/ayu_rax"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@rajsinghania2995"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
 ---
@@ -18,37 +19,65 @@
 ## 💻 Tech Stack
 
 #### 🚀 Languages & Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
 
 #### 📊 Data Science & DBs
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23013A2B.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 #### 🎨 Creative Tools
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![After Effects](https://img.shields.io/badge/After%20Effects-1F1F3A.svg?style=for-the-badge\&logo=Adobe%20After%20Effects\&logoColor=9999FF)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36.svg?style=for-the-badge\&logo=Adobe%20Photoshop\&logoColor=31A8FF)
+![Canva](https://img.shields.io/badge/Canva-0B0C10.svg?style=for-the-badge\&logo=Canva\&logoColor=00C4CC)
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=Ayurax&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000" />
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayurax&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" />
+
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=Ayurax&theme=dark&hide_border=true&include_all_commits=true&bg_color=00000000"/>
+
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayurax&theme=dark&hide_border=true&layout=compact&bg_color=00000000"/>
+
 </p>
 
 <p align="center">
-  <img width="700" src="https://nirzak-streak-stats.vercel.app/?user=Ayurax&theme=dark&hide_border=true&background=00000000" />
-</p>
 
-#### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<img width="700" src="https://streak-stats.demolab.com?user=Ayurax&theme=dark&hide_border=true&background=00000000"/>
+
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&size=15&pause=1000&color=ffffff&background=000000&center=true&vCenter=true&width=600&height=50&lines=%22Simplicity+is+the+soul+of+efficiency.%22" alt="Quote" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=Code.+Create.+Innovate." />
+
 </p>
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Ayurax&icon=0&color=0" />
+
+<img src="https://visitcount.itsvg.in/api?id=Ayurax&icon=2&color=12"/>
+
 </p>
