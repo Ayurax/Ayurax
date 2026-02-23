@@ -47,15 +47,9 @@
 
 <p align="center">
 
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=Ayurax&theme=dark&hide_border=true&include_all_commits=true&bg_color=00000000"/>
+<img width="400" src="https://github-readme-stats-7lhggqr33-ayuraxs-projects.vercel.app/api?username=Ayurax&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayurax&theme=dark&hide_border=true&layout=compact&bg_color=00000000"/>
-
-</p>
-
-<p align="center">
-
-<img width="700" src="https://streak-stats.demolab.com?user=Ayurax&theme=dark&hide_border=true&background=00000000"/>
+<img width="400" src="https://github-readme-stats-7lhggqr33-ayuraxs-projects.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -64,11 +58,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=discord&no-frame=true&column=6"/>
 
 </p>
 
+---
 
 <p align="center">
 
