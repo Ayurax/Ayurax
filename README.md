@@ -7,11 +7,25 @@
 #### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/raj-singhania-908aa12b2"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rajsinghania811214@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/ayu_rax"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://instagram.com/ayu_rax"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@rajsinghania2995"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raj-singhania-908aa12b2">
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rajsinghania811214@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/ayu_rax">
+<img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ayu_rax">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@rajsinghania2995">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -47,9 +61,9 @@
 
 <p align="center">
 
-<img width="400" src="https://github-readme-stats-7lhggqr33-ayuraxs-projects.vercel.app/api?username=Ayurax&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-rosy-seven-crqx3ehr4e.vercel.app/api?username=Ayurax&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="400" src="https://github-readme-stats-7lhggqr33-ayuraxs-projects.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-rosy-seven-crqx3ehr4e.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -67,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=Code.+Create.+Innovate." />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=Code.+Create.+Innovate."/>
 
 </p>
 
