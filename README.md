@@ -69,15 +69,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=discord&no-frame=true&column=6"/>
+<img src="https://streak-stats.demolab.com?user=Ayurax&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayurax&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
