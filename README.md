@@ -13,7 +13,6 @@ I'm a self-taught developer from India 🇮🇳 passionate about building useful
 • ⚡ Frontend-focused developer working with JavaScript and modern frameworks  
 • 🧩 Building personal projects and experimenting with new technologies  
 • 📈 Improving problem solving and software engineering skills  
-• 🎯 Goal: Become a highly skilled full-stack engineer  
 
 <br/>
 
@@ -81,6 +80,16 @@ I'm a self-taught developer from India 🇮🇳 passionate about building useful
 <img src="https://streak-stats.demolab.com?user=Ayurax&theme=github-dark-blue&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayurax&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+## 📊 Activity Overview
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayurax&theme=github_dark"/>
 
 </p>
 
