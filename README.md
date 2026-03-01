@@ -4,6 +4,38 @@
 
 <br/>
 
+# 👋 Hi, I'm Raj
+
+I'm a self-taught developer from India 🇮🇳 passionate about building useful software.
+
+### About me
+
+• ⚡ Frontend-focused developer working with JavaScript and modern frameworks  
+• 🧩 Building personal projects and experimenting with new technologies  
+• 📈 Improving problem solving and software engineering skills  
+• 🎯 Goal: Become a highly skilled full-stack engineer  
+
+<br/>
+
+### 🛠️ Tech I use
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=js" height="28"/>
+<img src="https://skillicons.dev/icons?i=python" height="28"/>
+<img src="https://skillicons.dev/icons?i=java" height="28"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="28"/>
+<img src="https://skillicons.dev/icons?i=c" height="28"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="28"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="28"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="28"/>
+<img src="https://skillicons.dev/icons?i=git" height="28"/>
+<img src="https://skillicons.dev/icons?i=github" height="28"/>
+
+</p>
+
+---
+
 #### 🌐 Connect with me:
 
 <p align="left">
@@ -30,33 +62,6 @@
 
 ---
 
-## 💻 Tech Stack
-
-#### 🚀 Languages & Frameworks
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
-
-#### 📊 Data Science & DBs
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23013A2B.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-#### 🎨 Creative Tools
-
-![After Effects](https://img.shields.io/badge/After%20Effects-1F1F3A.svg?style=for-the-badge\&logo=Adobe%20After%20Effects\&logoColor=9999FF)
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36.svg?style=for-the-badge\&logo=Adobe%20Photoshop\&logoColor=31A8FF)
-![Canva](https://img.shields.io/badge/Canva-0B0C10.svg?style=for-the-badge\&logo=Canva\&logoColor=00C4CC)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,15 +79,20 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ayurax&theme=github-dark-blue&hide_border=true"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayurax&theme=github-dark&hide_border=true"/>
 
 </p>
+
+---
 
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=Code.+Create.+Innovate."/>
 
 </p>
+
+---
 
 <p align="right">
 
