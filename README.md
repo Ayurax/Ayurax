@@ -73,8 +73,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ayurax&theme=github-dark&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Ayurax&theme=github-dark-blue&hide_border=true"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayurax&theme=github-dark&hide_border=true"/>
 
 </p>
