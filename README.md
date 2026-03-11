@@ -2,19 +2,17 @@
   <img src="INTRO.gif" width="100%" alt="Raj Singhania Intro" />
 </div>
 
-<br/>
-
 # 👋 Hi, I'm Raj
 
-I'm a self-taught developer from India 🇮🇳 passionate about building useful software.
+I'm an engineer from India who enjoys building web applications and experimenting with different technologies.
 
-### About me
+## About me
 
-• ⚡ Frontend-focused developer working with JavaScript and modern frameworks  
-• 🧩 Building personal projects and experimenting with new technologies  
-• 📈 Improving problem solving and software engineering skills  
+* ⚡ Frontend-focused developer working with JavaScript
+* 🧩 I like turning ideas into small working projects
+* 📚 Currently improving my programming fundamentals and system thinking
+* 🎬 I also work with Adobe After Effects for creative editing
 
-<br/>
 
 ### 🛠️ Tech I use
 
@@ -25,11 +23,10 @@ I'm a self-taught developer from India 🇮🇳 passionate about building useful
 <img src="https://skillicons.dev/icons?i=java" height="28"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="28"/>
 <img src="https://skillicons.dev/icons?i=c" height="28"/>
-<img src="https://skillicons.dev/icons?i=flutter" height="28"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="28"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="28"/>
 <img src="https://skillicons.dev/icons?i=git" height="28"/>
 <img src="https://skillicons.dev/icons?i=github" height="28"/>
+<img src="https://skillicons.dev/icons?i=ae" height="28"/>
 
 </p>
 
