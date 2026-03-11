@@ -52,7 +52,7 @@ I'm an engineer from India who enjoys building web applications and experimentin
 </a>
 
 <a href="https://youtube.com/@rajsinghania2995">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 </p>
 
