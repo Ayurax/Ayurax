@@ -51,7 +51,7 @@ I'm an engineer from India who enjoys building web applications and experimentin
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@rajsinghania2995">
+<a href="https://youtube.com/@ayurixrayu">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>
 </p>
