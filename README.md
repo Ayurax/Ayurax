@@ -57,11 +57,6 @@ I'm an engineer from India who enjoys building web applications and experimentin
 </p>
 
 ---
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Ayurax Trophies" />
-  </a>
-</p>---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,6 +75,17 @@ I'm an engineer from India who enjoys building web applications and experimentin
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayurax&theme=github_dark"/>
 
+</p>
+
+---
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayurax&theme=dracula&no-bg=true&no-frame=true&margin-w=15&rank=-?" alt="Ayurax Trophies" />
+  </a>
 </p>
 
 ---
