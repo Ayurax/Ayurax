@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Raj
 
-I'm an engineer from India who enjoys building web applications and experimenting with different technologies.
+> **Driven by obsession, not obligation. Lock the fuck in.** ⚡
 
 ## About me
 
