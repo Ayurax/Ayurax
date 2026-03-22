@@ -8,10 +8,10 @@
 
 ## About me
 
-* ⚡ Frontend-focused developer working with JavaScript
-* 🧩 I like turning ideas into small working projects
-* 📚 Currently improving my programming fundamentals and system thinking
-* 🎬 I also work with Adobe After Effects for creative editing
+* ⚡ Building custom tools for After Effects to speed up workflow  
+* 🧠 Learning by solving real problems, not just tutorials  
+* 🛠 Focused on automation, scripting, and clean UI  
+* 🎬 Combining motion design with technical tools
 
 
 ### 🛠️ Tech I use
