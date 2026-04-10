@@ -61,9 +61,9 @@
 
 <p align="center">
 
-<img width="400" src="https://github-readme-stats-rosy-seven-crqx3ehr4e.vercel.app/api?username=Ayurax&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-7rnc.vercel.app/api?username=Ayurax&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
-<img width="400" src="https://github-readme-stats-rosy-seven-crqx3ehr4e.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="400" src="https://github-readme-stats-7rnc.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
