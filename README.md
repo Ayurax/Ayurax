@@ -14,9 +14,10 @@
 * 🎬 Combining motion design with technical tools
 
 
-### 🛠️ Tech I use
+#### ⚙️ Tools & Stack
 
 <p align="left">
+<b>💻 Development</b><br><br>
 
 <img src="https://skillicons.dev/icons?i=js" height="28"/>
 <img src="https://skillicons.dev/icons?i=python" height="28"/>
@@ -26,10 +27,19 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="28"/>
 <img src="https://skillicons.dev/icons?i=git" height="28"/>
 <img src="https://skillicons.dev/icons?i=github" height="28"/>
-<img src="https://skillicons.dev/icons?i=ae" height="28"/>
 
 </p>
 
+<br>
+
+<p align="left">
+<b>🎬 Creative Tools</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=ae" height="28"/>
+<img src="https://img.icons8.com/color/48/adobe-photoshop.png" height="28"/>
+<img src="https://img.icons8.com/color/48/adobe-media-encoder.png" height="28"/>
+
+</p>
 ---
 
 #### 🌐 Connect with me:
