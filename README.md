@@ -1,12 +1,5 @@
 <div align="center">
-  <video 
-    src="https://raw.githubusercontent.com/Ayurax/Ayurax/main/vid.mp4"
-    autoplay 
-    loop 
-    muted 
-    playsinline 
-    width="100%">
-  </video>
+  <img src="vid.gif" width="100%" alt="Raj Intro"/>
 </div>
 
 # 👋 Hi, I'm Raj
