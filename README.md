@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="INTRO.gif" width="100%" alt="Raj Singhania Intro" />
+  <video 
+    src="https://raw.githubusercontent.com/Ayurax/Ayurax/main/vid.mp4"
+    autoplay 
+    loop 
+    muted 
+    playsinline 
+    width="100%">
+  </video>
 </div>
 
 # 👋 Hi, I'm Raj
