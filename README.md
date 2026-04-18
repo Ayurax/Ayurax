@@ -40,7 +40,6 @@
 <img src="https://img.icons8.com/color/48/adobe-media-encoder.png" height="28"/>
 
 </p>
----
 
 #### 🌐 Connect with me:
 
