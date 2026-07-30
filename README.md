@@ -84,10 +84,8 @@
 
 <p align="center">
 
-<img width="400" src="https://github-readme-stats-7rnc.vercel.app/api?username=Ayurax&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&rank_icon=github&hide=stars,issues"/>
-
-<img width="300" src="https://github-readme-stats-7rnc.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=radical&hide_border=false&cache_seconds=86400&border_radius=15"/>
-
+<img width="400" src="https://github-readme-stats-rosy-seven-crqx3ehr4e.vercel.app/api?username=Ayurax&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide=stars,issues"/>
+<img width="300" src="https://github-readme-stats-rosy-seven-crqx3ehr4e.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=radical&hide_border=false&border_radius=15"/>
 </p>
 
 ---
