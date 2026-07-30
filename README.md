@@ -99,7 +99,23 @@
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayurax/Ayurax/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=14&pause=2000&color=FFFFFF&center=true&vCenter=true&width=420&height=40&lines=Code.+Create.+Innovate."/>
+</p>
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Ayurax&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 
 <p align="center">
