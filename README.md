@@ -12,7 +12,7 @@ Self-taught, still figuring it out.
 
 &nbsp;
 ## Featured Project
-### 🎬 After Effects Workflow Tools
+### After Effects Workflow Tools
 Save hours of repetitive work with one-click utilities for motion design
 
 👉 [Check it out](https://github.com/Ayurax/after-effects-workflow-tools)
@@ -27,7 +27,7 @@ Save hours of repetitive work with one-click utilities for motion design
 #### ⚙️ Tools & Stack
 
 <p align="left">
-<b>💻 Development</b><br><br>
+<b>Development</b><br><br>
 
 <img src="https://skillicons.dev/icons?i=js" height="28"/>
 <img src="https://skillicons.dev/icons?i=python" height="28"/>
@@ -43,7 +43,7 @@ Save hours of repetitive work with one-click utilities for motion design
 <br>
 
 <p align="left">
-<b>🎬 Creative Tools</b><br><br>
+<b>Creative Tools</b><br><br>
 
 <img src="https://skillicons.dev/icons?i=ae" height="28"/>
 <img src="https://img.icons8.com/color/48/adobe-photoshop.png" height="28"/>
