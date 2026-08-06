@@ -2,29 +2,23 @@
   <img src="boccha-ezgif.com-optimize.gif" width="100%" alt="Raj Intro"/>
 </div>
 
----
-> **Driven by obsession, not obligation. Lock the fuck in.** ⚡
----
+**Build ExtendScript panels for After Effects that kill repetitive motion-design work.**  
+Also do anime art + video editing (AMVs, manga edits) on the side.  
+Self-taught, still figuring it out.
 
-# ⚡ Building tools that remove friction from creative workflows
-
-🎬 I create After Effects tools that turn repetitive tasks into one-click actions.
-
----
-
-## 🚀 Featured Project
+##  Featured Project
 
 ### 🎬 After Effects Workflow Tools
-⏱️ Save hours of repetitive work with one-click utilities for motion design
+Save hours of repetitive work with one-click utilities for motion design
 
 👉 [Check it out](https://github.com/Ayurax/after-effects-workflow-tools)
 
 ---
 ## About me
 
-* ⚡ Building custom tools for After Effects to speed up workflow  
-* 🛠 Focused on automation, scripting, and clean UI  
-* 🎬 Combining motion design with technical tools
+* Building custom tools for After Effects to speed up workflow  
+* Focused on automation, scripting, and clean UI  
+* Combining motion design with technical tools
 
 #### ⚙️ Tools & Stack
 
