@@ -47,7 +47,7 @@ Save hours of repetitive work with one-click utilities for motion design
 
 </p>
 
-#### 🌐 Connect with me:
+#### Connect with me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/raj-singhania-908aa12b2">
@@ -72,7 +72,7 @@ Save hours of repetitive work with one-click utilities for motion design
 </p>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -84,7 +84,7 @@ Save hours of repetitive work with one-click utilities for motion design
 </p>
 
 ---
-## 📊 Activity Overview
+## Activity Overview
 
 
 <p align="center">
@@ -93,7 +93,7 @@ Save hours of repetitive work with one-click utilities for motion design
 
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayurax/Ayurax/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
