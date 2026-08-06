@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="vid.gif" width="100%" alt="Raj Intro"/>
+  <img src="boccha-ezgif.com-optimize.gif" width="100%" alt="Raj Intro"/>
 </div>
 
 ---
