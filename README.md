@@ -2,12 +2,16 @@
   <img src="boccha-ezgif.com-optimize.gif" width="100%" alt="Raj Intro"/>
 </div>
 
-**Build ExtendScript panels for After Effects that kill repetitive motion-design work.**  
-Also do anime art + video editing (AMVs, manga edits) on the side.  
+&nbsp;
+
+**Build ExtendScript panels for After Effects that kill repetitive motion-design work.**
+
+Also do anime art + video editing (AMVs, manga edits) on the side.
+
 Self-taught, still figuring it out.
 
-##  Featured Project
-
+&nbsp;
+## Featured Project
 ### 🎬 After Effects Workflow Tools
 Save hours of repetitive work with one-click utilities for motion design
 
