@@ -20,9 +20,9 @@ Save hours of repetitive work with one-click utilities for motion design
 ---
 ## About me
 
-* Building custom tools for After Effects to speed up workflow  
-* Focused on automation, scripting, and clean UI  
-* Combining motion design with technical tools
+- Built ae-lyric-helper — automates lyric/subtitle timing in AE, no more manual keyframing
+- Learning JS mostly through building these tools, not tutorials
+- Also draw and edit anime content — different muscle, same "make the tedious part fast" instinct
 
 #### ⚙️ Tools & Stack
 
