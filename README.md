@@ -76,12 +76,11 @@ Save hours of repetitive work with one-click utilities for motion design
 </p>
 
 ---
-## GitHub Stats
+
 
 <p align="center">
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats-beta-neon-84.vercel.app/api?username=Ayurax&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide=stars,issues"/>
 
   <img width="300" src="https://github-readme-stats-beta-neon-84.vercel.app/api/top-langs/?username=Ayurax&layout=compact&theme=radical&hide_border=false&border_radius=15"/>
 </p>
