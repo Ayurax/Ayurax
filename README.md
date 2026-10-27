@@ -96,11 +96,6 @@ Save hours of repetitive work with one-click utilities for motion design
 
 </p>
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayurax/Ayurax/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
 
 ---
 
